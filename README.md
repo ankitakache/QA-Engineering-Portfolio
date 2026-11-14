@@ -62,3 +62,4 @@ This portfolio is being developed through hands-on
 testing projects, test documentation, automation
 frameworks and practical QA exercises.
   
+  
